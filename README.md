@@ -7,3 +7,6 @@ and Greens' function (the displacement, DGF) database by using subsampling and c
 parsing the waveform field calculated and written by ![SPECFEM3D_Cartesian](https://github.com/Liang-Ding/specfem3d).
 
 
+## Subsampling and compression
+![SEISGEN](./doc/figs/seisdb_storage.png)
+
